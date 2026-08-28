@@ -1,0 +1,5 @@
+git/github
+
+git config --global user.email "carlolemba98@gmail.com"
+
+git config --global user.name "CharloLemba"
